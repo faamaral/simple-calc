@@ -4,7 +4,7 @@ class Memory {
   final _buffer = [0.0, 0.0];
   int _bufferIndex = 0;
   String? _operation;
-  String _lastCommand;
+  String? _lastCommand;
   bool _wipeValue = false;
   String get value {
     return _value;

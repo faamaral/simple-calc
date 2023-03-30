@@ -31,6 +31,7 @@ class _CalculatorState extends State<Calculator> {
           Keyboard(callback: _onPressed,),
         ],
       ),
+      debugShowCheckedModeBanner: false,
     );
   }
 }
