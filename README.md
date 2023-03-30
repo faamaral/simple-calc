@@ -8,7 +8,6 @@ This is a calculator application developed in Flutter with the purpose of practi
   <img src="https://img.shields.io/badge/Dart-2.18.6-blue" alt="Dart" />
   <img src="https://img.shields.io/badge/Dart%20Dev%20Tools-2.15.0-blue" alt="Dev Tools" />
   <img src="https://img.shields.io/github/license/faamaral/simple-calc.svg" alt="MIT License" />
-  <!-- <img src="https://img.shields.io/github/forks/faamaral/chatflare.svg" alt="Forks" /> -->
 </p>
 
 ## Technologies Used
